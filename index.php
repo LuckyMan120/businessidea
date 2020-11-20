@@ -582,6 +582,8 @@ blah blah, great for members
     
     <!--====== Main js ======-->
     <script src="assets/js/main.js"></script>
+
+    <!--====== Done js ======-->
     
 </body>
 
